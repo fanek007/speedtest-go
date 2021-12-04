@@ -12,6 +12,7 @@ import (
 	"time"
 )
 
+// original URL "https://www.speedtest.net/speedtest-servers-static.php" did not return the nearest servers
 const speedTestServersUrl = "https://c.speedtest.net/speedtest-servers-static.php"
 const speedTestServersAlternativeUrl = "https://c.speedtest.net/speedtest-servers-static.php"
 
