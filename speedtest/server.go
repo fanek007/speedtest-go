@@ -12,8 +12,8 @@ import (
 	"time"
 )
 
-const speedTestServersUrl = "https://www.speedtest.net/speedtest-servers-static.php"
-const speedTestServersAlternativeUrl = "https://www.speedtest.net/speedtest-servers-static.php"
+const speedTestServersUrl = "https://c.speedtest.net/speedtest-servers-static.php"
+const speedTestServersAlternativeUrl = "https://c.speedtest.net/speedtest-servers-static.php"
 
 // Server information
 type Server struct {
