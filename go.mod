@@ -1,4 +1,4 @@
-module github.com/fanek007/speedtest-go
+module github.com/showwin/speedtest-go
 
 go 1.16
 
