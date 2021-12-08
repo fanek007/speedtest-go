@@ -13,7 +13,7 @@ import (
 )
 
 // The original URL "https://www.speedtest.net/speedtest-servers-static.php" nor "https://c.speedtest.net/speedtest-servers-static.php" do not return the nearest servers.
-// This URL might be user instead: "https://www.speedtest.net/api/js/servers?engine=js&limit=10&https_functional=true".
+// This URL might be used instead: "https://www.speedtest.net/api/js/servers?engine=js&limit=10&https_functional=true".
 // More details here: https://issueexplorer.com/issue/sivel/speedtest-cli/765
 
 const speedTestServersUrl = "https://www.speedtest.net/speedtest-servers-static.php"
